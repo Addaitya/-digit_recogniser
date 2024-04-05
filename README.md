@@ -1,4 +1,4 @@
-# digit_recognise
+# digit_recogniser
 
 This project recognise the english digits form the digit image
 
@@ -11,3 +11,6 @@ or
 python main.py
 ```
 The saved images will be stored in images/ folder
+
+## Preview to creat image
+![alt text](./preview.png)
